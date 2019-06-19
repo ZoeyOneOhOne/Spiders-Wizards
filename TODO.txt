@@ -1,0 +1,7 @@
+1.) Reloading
+
+2.) Boss Movement when enter the arena.
+
+3.) Wizards do something
+
+4.) Spiders do some kind of damage. Maybe on seeing the player. 

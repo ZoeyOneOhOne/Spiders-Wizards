@@ -3,3 +3,7 @@
 2.) Wizards do something
 
 3.) Spiders do some kind of damage. Maybe on seeing the player. 
+
+4.) Fix bullet count HUD
+
+5.) Lower gun audio volume
